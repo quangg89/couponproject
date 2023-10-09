@@ -17,3 +17,6 @@ The acceptance of coupons by timing is connected to when you may visit these est
 Visualizations were used to look at coupon usage my venue, and coupon usage based on the temperature.
 Multiple queries were conducted to assess proportion of coupons accepted based on the bar subgroup.
 Additional exploratory analyses repeated similar questions but for coffee house, and for high earners + expensive restaurants.
+
+# Next steps and recommendations: 
+Further analyses could be informative - the data are currently limited by categorical demographics and could benefit from more specific input. Coupons are also administered in multiple ways - so combining datasets with utilization or "referral" source could provide a complementary approach to understand an overall coupon strategy. Internal data on the types of orders the coupons are used on could also drive a product-specific coupon strategy which may be further used to optimize coupon approach.
